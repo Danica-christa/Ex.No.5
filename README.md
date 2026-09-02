@@ -44,7 +44,6 @@ The same expense-management problem was given to ChatGPT using four different pr
 
 The following student expense scenario is considered for the experiment.
 
-```text
 Expense Description: "Lunch at college canteen"
 Amount: ₹120
 
